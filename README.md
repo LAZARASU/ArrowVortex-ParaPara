@@ -1,5 +1,7 @@
 # ArrowVortex
 
+(NOTE: This fork was made with Para support in mind. "Para" is shorthand for ParaParaParadise, a rhythm game series by Konami based on the ParaPara dance style, which is danced primarily to eurobeat songs.)
+
 ArrowVortex is a simfile editor for Windows. It can be used to create or edit stepfiles for various rhythm games, such as StepMania, ITG, osu!, and other games which support DDR-style and/or PIU-style panel layouts.
 
 This is a continuation of the original project by Bram 'Fietsemaker' van de Wetering. He has graciously allowed for the open sourcing of this code so that development can continue.
